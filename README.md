@@ -169,6 +169,8 @@ See the [open issues](https://github.com/geoffkellync/project-x/issues) for a fu
       - [x] React-Router-Dom
       - [x] Styled Components
 - [x] Updated Readme.md
+- [x] Updated License
+- [x] Implemented theme
 
 
 

@@ -12,7 +12,17 @@ function stats (state = [], action){
     }
 }
 
+function statsLoading (state = true, action){
+    switch(action.type) {
+        case types.STATS_LOADING:
+            return action.payload
+        default:
+            return state
+    }
+}
+
 
 export default combineReducers({
-    stats
+    stats,
+    statsLoading
 })

@@ -1,33 +1,29 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import '../master-styles/App.css';
-import * as actions from '../redux-state/action-creators'
-import { connect } from 'react-redux'
+import { Route } from 'react-router-dom'
 
-function App(props) {
+import Home from './home/Home'
+import Header from './header/Header'
 
-  const { 
-    stats,
-    fetchStats } = props
 
-    useEffect(() => {
-      fetchStats()
-      console.log(stats)
-    },[])
+function App() {
+
+
 
   
 
 
   return (
     <div className="App">
-
+      <Header />
+      <div className = 'body-container'>
+        <Route exact path='/'>
+          <Home />
+        </Route>
+      </div>
     </div>
   );
 }
 
-const mapStateToProps = state => {
-  return{
-    stats: state.stats
-  }
-}
 
-export default connect(mapStateToProps, actions) (App);
+export default App;

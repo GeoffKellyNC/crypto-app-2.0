@@ -4,6 +4,10 @@ export default {
         primary: '#00bcd4',
         secondary: '#ff9800',
         accent: '#ff5722',
+        lightBlack: '#131313', // =>  rgb(19, 19, 19)
+        black: '#0B0B0B', // => rgb(11, 11, 11)
+        fontSecondary: '#808080', // => rgb(128, 128, 128)
+
     },
     fonts: {
         primary: 'Poppins, sans-serif',
@@ -23,5 +27,8 @@ export default {
         small: 1.2,
         medium: 1.5,
         large: 2,
+    },
+    background: {
+        main: '#18140a'
     }
 }
