@@ -7,9 +7,9 @@ function Nav() {
     <StyledNav>
         <div className = 'links'>
             <NavLink to='/'> Home </NavLink>
-            <NavLink to='/about'> About </NavLink>
-            <NavLink to='/contact'> Contact </NavLink>
-            <NavLink to= '/link'> Other Link </NavLink>
+            <NavLink to='/about'> Blockchain </NavLink>
+            <NavLink to='/contact'> NFT's </NavLink>
+            <NavLink to= '/link'> News </NavLink>
         </div>
     </StyledNav>
   )
@@ -36,6 +36,11 @@ const StyledNav = styled.nav`
 
     .links a:hover {
         color: ${pr => pr.theme.colors.primary};
+    }
+
+
+    @media (max-width: 768px) {
+        display: none;
     }
 
 
