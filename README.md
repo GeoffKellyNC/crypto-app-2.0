@@ -1,29 +1,27 @@
 <div id="top"></div>
 
-![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/geoffkellync/crypto-tracker-2.0/react?color=06b724&label=React&logo=React) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/geoffkellync/crypto-tracker-2.0/react-router-dom?color=red&logo=react-router&logoColor=orange) ![GitHub package.json version](https://img.shields.io/github/package-json/v/geoffkellync/crypto-tracker-2.0) ![GitHub issues](https://img.shields.io/github/issues/geoffkellync/crypto-tracker-2.0?logo=github) ![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fgeoffkelly.dev) 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/geoffkellync/crypto-tracker-2.0?color=red&label=alpha-version) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/geoffkellync/crypto-tracker-2.0?color=g&logo=github) ![GitHub deployments](https://img.shields.io/github/deployments/geoffkellync/crypto-tracker-2.0/production?label=Deployment%20State) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/geoffkellync/crypto-tracker-2.0) ![GitHub last commit](https://img.shields.io/github/last-commit/geoffkellync/crypto-tracker-2.0?logo=github)
-
+![GitHub top language](https://img.shields.io/github/languages/top/geoffkellync/crypto-app-2.0?color=green) ![GitHub language count](https://img.shields.io/github/languages/count/geoffkellync/crypto-app-2.0?color=purple) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/geoffkellync/crypto-app-2.0/react?color=gree&label=React&logo=react) ![Netlify](https://img.shields.io/netlify/a01f4060-42a8-4a57-b2e2-69d1101d209d?color=00b6ff&logo=netlify) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/geoffkellync/crypto-app-2.0?color=orange&logo=github&logoColor=orange) ![GitHub last commit](https://img.shields.io/github/last-commit/geoffkellync/crypto-app-2.0?color=ff0aa9&logo=Github) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhttps://gk-cryptotracker.netlify.app/)
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/geoffkellync/crypto-tracker-2.0">
+  <a href="https://github.com/geoffkellync/crypto-app-2.0">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">crypto-tracker-2.0</h3>
+  <h3 align="center">crypto-app-2.0</h3>
 
   <p align="center">
     <br />
-    <a href="https://github.com/geoffkellync/crypto-tracker-2.0"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/geoffkellync/crypto-app-2.0"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://gk-cryptotracker.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/geoffkellync/crypto-tracker-2.0/issues">Report Bug</a>
+    <a href="https://github.com/geoffkellync/crypto-app-2.0/issues">Report Bug</a>
     ·
-    <a href="https://github.com/geoffkellync/crypto-tracker-2.0/issues">Request Feature</a>
+    <a href="https://github.com/geoffkellync/crypto-app-2.0/issues">Request Feature</a>
   </p>
 </div>
 
@@ -102,7 +100,7 @@ Follow the instructions below to get started.
 1. 
 2. Clone the repo
    ```sh
-   git clone https://github.com/geoffkellync_/crypto-tracker-2.0.git
+   git clone https://github.com/geoffkellync_/crypto-app-2.0.git
    ```
 3. Install NPM packages
    ```sh
@@ -141,7 +139,7 @@ Follow the instructions below to get started.
 - [ ] Add Ability to see live coin data
 - [ ] Add Ability to make transactions and view your own data
 
-See the [open issues](https://github.com/geoffkellync/crypto-tracker-2.0/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/geoffkellync/crypto-app-2.0/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -184,7 +182,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/cloudync) - email@example.com
 
-Project Link: [https://github.com/geoffkellync/crypto-tracker-2.0](https://github.com/geoffkellync/crypto-tracker-2.0)
+Project Link: [https://github.com/geoffkellync/crypto-app-2.0](https://github.com/geoffkellync/crypto-app-2.0)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -210,16 +208,16 @@ Project Link: [https://github.com/geoffkellync/crypto-tracker-2.0](https://githu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/geoffkellync/crypto-tracker-2.0.svg?style=for-the-badge
-[contributors-url]: https://github.com/geoffkellync/crypto-tracker-2.0/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/geoffkellync/crypto-tracker-2.0.svg?style=for-the-badge
-[forks-url]: https://github.com/geoffkellync/crypto-tracker-2.0/network/members
-[stars-shield]: https://img.shields.io/github/stars/geoffkellync/crypto-tracker-2.0.svg?style=for-the-badge
-[stars-url]: https://github.com/geoffkellync/crypto-tracker-2.0/stargazers
-[issues-shield]: https://img.shields.io/github/issues/geoffkellync/crypto-tracker-2.0.svg?style=for-the-badge
-[issues-url]: https://github.com/geoffkellync/crypto-tracker-2.0/issues
-[license-shield]: https://img.shields.io/github/license/geoffkellync/crypto-tracker-2.0.svg?style=for-the-badge
-[license-url]: https://github.com/geoffkellync/crypto-tracker-2.0/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/geoffkellync/crypto-app-2.0.svg?style=for-the-badge
+[contributors-url]: https://github.com/geoffkellync/crypto-app-2.0/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/geoffkellync/crypto-app-2.0.svg?style=for-the-badge
+[forks-url]: https://github.com/geoffkellync/crypto-app-2.0/network/members
+[stars-shield]: https://img.shields.io/github/stars/geoffkellync/crypto-app-2.0.svg?style=for-the-badge
+[stars-url]: https://github.com/geoffkellync/crypto-app-2.0/stargazers
+[issues-shield]: https://img.shields.io/github/issues/geoffkellync/crypto-app-2.0.svg?style=for-the-badge
+[issues-url]: https://github.com/geoffkellync/crypto-app-2.0/issues
+[license-shield]: https://img.shields.io/github/license/geoffkellync/crypto-app-2.0.svg?style=for-the-badge
+[license-url]: https://github.com/geoffkellync/crypto-app-2.0/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/geoffkellync
 [product-screenshot]: images/screenshot.png
