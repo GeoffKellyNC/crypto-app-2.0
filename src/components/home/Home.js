@@ -1,13 +1,14 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect, useState } from 'react'
 import * as actions from '../../redux-state/action-creators'
 import { connect } from 'react-redux'
 import styled from 'styled-components'
 
-// import Test from './Test'
 
 //Components Imported
 import CryptoCard from './CryptoCard'
 import Hero from './Hero'
+import Charts from './Charts'
 
 function Home(props) {
     const [selected, setSelected] = useState(false)
@@ -24,13 +25,6 @@ function Home(props) {
 
     const top12Coins = stats.slice(0, 12)
     const remainingCoins = stats.slice(12, 39)
-
-
-
-
-
-
-
 
 
   return (
@@ -51,7 +45,8 @@ function Home(props) {
                 ) : <div onClick = {() => setSelected(true)}> View More </div>
             }
         </div>
-        {/* <Test /> */}
+        <Charts /> 
+
     </StyledHome>
   )
 }

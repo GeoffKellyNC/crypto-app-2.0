@@ -8,6 +8,7 @@ import waves from '../assets/wave-short.svg'
 
 import Home from './home/Home'
 import Header from './header/Header'
+import Footer from './footer/Footer'
 // import Blobs from './Blobs'
 
 
@@ -33,6 +34,7 @@ function App() {
           <Home />
         </Route>
       </div>
+      <Footer />
     </StyledApp>
   );
 }
