@@ -1,29 +1,29 @@
 <div id="top"></div>
 
-![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/geoffkellync/project-x/react?color=06b724&label=React&logo=React) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/geoffkellync/project-x/react-router-dom?color=red&logo=react-router&logoColor=orange) ![GitHub package.json version](https://img.shields.io/github/package-json/v/geoffkellync/project-x) ![GitHub issues](https://img.shields.io/github/issues/geoffkellync/project-x?logo=github) ![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fgeoffkelly.dev) 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/geoffkellync/project-x?color=red&label=alpha-version) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/geoffkellync/project-x?color=g&logo=github) ![GitHub deployments](https://img.shields.io/github/deployments/geoffkellync/project-x/production?label=Deployment%20State) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/geoffkellync/project-x) ![GitHub last commit](https://img.shields.io/github/last-commit/geoffkellync/project-x?logo=github)
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/geoffkellync/crypto-tracker-2.0/react?color=06b724&label=React&logo=React) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/geoffkellync/crypto-tracker-2.0/react-router-dom?color=red&logo=react-router&logoColor=orange) ![GitHub package.json version](https://img.shields.io/github/package-json/v/geoffkellync/crypto-tracker-2.0) ![GitHub issues](https://img.shields.io/github/issues/geoffkellync/crypto-tracker-2.0?logo=github) ![Website](https://img.shields.io/website?up_message=online&url=https%3A%2F%2Fgeoffkelly.dev) 
+![GitHub package.json version](https://img.shields.io/github/package-json/v/geoffkellync/crypto-tracker-2.0?color=red&label=alpha-version) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/geoffkellync/crypto-tracker-2.0?color=g&logo=github) ![GitHub deployments](https://img.shields.io/github/deployments/geoffkellync/crypto-tracker-2.0/production?label=Deployment%20State) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/geoffkellync/crypto-tracker-2.0) ![GitHub last commit](https://img.shields.io/github/last-commit/geoffkellync/crypto-tracker-2.0?logo=github)
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/geoffkellync/project-x">
+  <a href="https://github.com/geoffkellync/crypto-tracker-2.0">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project-x</h3>
+  <h3 align="center">crypto-tracker-2.0</h3>
 
   <p align="center">
     <br />
-    <a href="https://github.com/geoffkellync/project-x"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/geoffkellync/crypto-tracker-2.0"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/geoffkellync/project-x">View Demo</a>
+    <a href="https://gk-cryptotracker.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/geoffkellync/project-x/issues">Report Bug</a>
+    <a href="https://github.com/geoffkellync/crypto-tracker-2.0/issues">Report Bug</a>
     ·
-    <a href="https://github.com/geoffkellync/project-x/issues">Request Feature</a>
+    <a href="https://github.com/geoffkellync/crypto-tracker-2.0/issues">Request Feature</a>
   </p>
 </div>
 
@@ -60,18 +60,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://gk-cryptotracker.netlify.app/)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -79,7 +69,6 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [React.js](https://reactjs.org/)
 * [Redux](https://vuejs.org/)
@@ -96,12 +85,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Follow the instructions below to get started.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+
 * npm
   ```sh
   npm install npm@latest -g
@@ -109,12 +97,12 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
+
+1. 
 2. Clone the repo
    ```sh
-   git clone https://github.com/geoffkellync_/Project-Name.git
+   git clone https://github.com/geoffkellync_/crypto-tracker-2.0.git
    ```
 3. Install NPM packages
    ```sh
@@ -132,9 +120,8 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -150,8 +137,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Multi-language Support
     - [ ] Chinese
     - [ ] Spanish
+- [ ] Add Ability to see live chart data
+- [ ] Add Ability to see live coin data
+- [ ] Add Ability to make transactions and view your own data
 
-See the [open issues](https://github.com/geoffkellync/project-x/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/geoffkellync/crypto-tracker-2.0/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -192,9 +182,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/geoffkellync) - email@example.com
+Your Name - [@your_twitter](https://twitter.com/cloudync) - email@example.com
 
-Project Link: [https://github.com/geoffkellync/project-x](https://github.com/geoffkellync/project-x)
+Project Link: [https://github.com/geoffkellync/crypto-tracker-2.0](https://github.com/geoffkellync/crypto-tracker-2.0)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -203,7 +193,7 @@ Project Link: [https://github.com/geoffkellync/project-x](https://github.com/geo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
@@ -220,16 +210,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/geoffkellync/project-x.svg?style=for-the-badge
-[contributors-url]: https://github.com/geoffkellync/project-x/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/geoffkellync/project-x.svg?style=for-the-badge
-[forks-url]: https://github.com/geoffkellync/project-x/network/members
-[stars-shield]: https://img.shields.io/github/stars/geoffkellync/project-x.svg?style=for-the-badge
-[stars-url]: https://github.com/geoffkellync/project-x/stargazers
-[issues-shield]: https://img.shields.io/github/issues/geoffkellync/project-x.svg?style=for-the-badge
-[issues-url]: https://github.com/geoffkellync/project-x/issues
-[license-shield]: https://img.shields.io/github/license/geoffkellync/project-x.svg?style=for-the-badge
-[license-url]: https://github.com/geoffkellync/project-x/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/geoffkellync/crypto-tracker-2.0.svg?style=for-the-badge
+[contributors-url]: https://github.com/geoffkellync/crypto-tracker-2.0/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/geoffkellync/crypto-tracker-2.0.svg?style=for-the-badge
+[forks-url]: https://github.com/geoffkellync/crypto-tracker-2.0/network/members
+[stars-shield]: https://img.shields.io/github/stars/geoffkellync/crypto-tracker-2.0.svg?style=for-the-badge
+[stars-url]: https://github.com/geoffkellync/crypto-tracker-2.0/stargazers
+[issues-shield]: https://img.shields.io/github/issues/geoffkellync/crypto-tracker-2.0.svg?style=for-the-badge
+[issues-url]: https://github.com/geoffkellync/crypto-tracker-2.0/issues
+[license-shield]: https://img.shields.io/github/license/geoffkellync/crypto-tracker-2.0.svg?style=for-the-badge
+[license-url]: https://github.com/geoffkellync/crypto-tracker-2.0/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/geoffkellync
 [product-screenshot]: images/screenshot.png
