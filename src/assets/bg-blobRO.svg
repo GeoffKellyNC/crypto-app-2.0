@@ -1,11 +1,1 @@
-<svg viewBox="0 0 800 500" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" id="blobSvg">
-  <g transform="translate(138.48804473876953, -8.37527847290039)">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
-        <stop offset="0%" style="stop-color: rgb(255, 95, 109);"></stop>
-        <stop offset="100%" style="stop-color: rgb(255, 195, 113);"></stop>
-      </linearGradient>
-    </defs>
-    <path class="blob" d="M457,308Q471,366,414.5,386Q358,406,315.5,422Q273,438,218,458Q163,478,127,434.5Q91,391,83,342Q75,293,65.5,247.5Q56,202,86.5,167Q117,132,144,87.5Q171,43,221.5,55Q272,67,314.5,81.5Q357,96,396,124.5Q435,153,439,201.5Q443,250,457,308Z" fill="url(#gradient)"></path>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="blobSvg" width="100%" preserveAspectRatio="none" viewBox="0 0 800 500"><g transform="translate(138.48804473876953, -8.37527847290039)"><defs><linearGradient id="gradient" x1="0%" x2="0%" y1="0%" y2="100%"><stop offset="0%" style="stop-color:#ff5f6d"/><stop offset="100%" style="stop-color:#ffc371"/></linearGradient></defs><path fill="url(#gradient)" d="M457,308Q471,366,414.5,386Q358,406,315.5,422Q273,438,218,458Q163,478,127,434.5Q91,391,83,342Q75,293,65.5,247.5Q56,202,86.5,167Q117,132,144,87.5Q171,43,221.5,55Q272,67,314.5,81.5Q357,96,396,124.5Q435,153,439,201.5Q443,250,457,308Z" class="blob"/></g></svg>
